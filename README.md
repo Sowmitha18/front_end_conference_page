@@ -4,4 +4,4 @@ FULL STACK DEVELOPMENT - ONE CREDIT COURSE
 
 FRONT END DEVELOPMENT
 
-THIS IS A CONFERENCE WEBPAGE ON WEB DESIGNING.
+This is a simple conference webpage on Web Designing. I have attached the snapshot of the webpage output.
